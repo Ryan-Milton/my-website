@@ -1,6 +1,8 @@
 import React from 'react';
 import Card from '../Cards/card.js';
 
+import './_deck.scss';
+
 function Deck(props) {
   return (
     <section>
